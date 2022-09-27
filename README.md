@@ -23,7 +23,9 @@ PosgreSql bağlantı yolunuzu aşagıdaki gibi kendi bilgisayarına göre girini
 -Projeyi derleyip çalıştırdığınızda gerekli veritabanı sisteminize kurulacak ve proje ayağa kalkacaktır.-
 
 
+
 Örnek senaryo
+
 
 **KULLANICI KAYDI**
 
