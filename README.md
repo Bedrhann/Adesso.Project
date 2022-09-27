@@ -1,3 +1,26 @@
+# Adesso AdessoRideShare Restful API Projesi
+***Proje Konusu*** : Örnek bir yolcu bulma uygulaması projesi.  Kullanıcı sisteme kayıt olur giriş yapar ve yolculuk ilanı verir, ilanları listeler, başka kullanıcıların verdiği ilanları listeler ve onlara teklif verebilir, kendi ilanına gelen teklifleri kabul edebilir.
+
+
+## Projeyi Çalıştırmak
+
+### Ön Gereksinimler
+* Visual Studio 2020+
+* PostgreSql
+* .Net 6.0
+
+### Çalıştırılması
+Local klasöre projeyi klonlamak için :
+```
+ git clone https://github.com/Bedrhann/Adesso.Project
+```
+PosgreSql bağlantı yolunuzu aşagıdaki gibi kendi bilgisayarına göre giriniz.
+
+ ![image](https://user-images.githubusercontent.com/99317183/191688309-1b5d2036-7ad4-4668-95e4-7b5859f7d3c9.png)
+
+
+<br/>
+-Projeyi derleyip çalıştırdığınızda gerekli veritabanı sisteminize kurulacak ve proje ayağa kalkacaktır.-
 Örnek senaryo
 **KULLANICI KAYDI**
 
